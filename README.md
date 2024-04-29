@@ -17,7 +17,7 @@ La serie Simple todo simplemente consta de 3 versiones hechas en 3 frameworks di
 + React 
 + Redux
 + Angular(Proximamente)
-+ NgRx(proximamente
++ NgRx(proximamente)
 
 #### Prerequisitos
 
